@@ -124,6 +124,7 @@ erDiagram
 Dự án được phát triển bởi team **F4**.
 
 - **Vũ Thắng** - Lead & Backend Architect
+- **Nhật Huy**
 - **Antigravity** - UI/UX Designer & Frontend Engineer (AI Assistant)
 
 ---

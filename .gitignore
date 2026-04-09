@@ -37,3 +37,6 @@ next-env.d.ts
 # Prisma
 /server/prisma/dev.db
 /server/prisma/dev.db-journal
+
+# Windows metadata sidecar files
+*:Zone.Identifier
